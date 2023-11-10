@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **FUll SATCK WEBDEV**
 
-- 💬 Ask me about **react,js,html,css,c,c++,java**
+- 💬 Ask me about **react,node js,js,html,css,c,c++,java**
 
 - 📫 How to reach me **rushi55578@gmail.com**
 
