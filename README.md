@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **AssignMate**
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **FUll SATCK WEBDEV**
 
 - 💬 Ask me about **react,js,html,css,c,c++,java**
 
